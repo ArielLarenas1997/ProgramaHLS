@@ -6,3 +6,13 @@ C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\Instalad
 C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.csproj.GenerateResource.Cache
 C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.exe
 C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.pdb
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\bin\Debug\InstaladorHLS_Project.exe.config
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\bin\Debug\InstaladorHLS_Project.exe
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\bin\Debug\InstaladorHLS_Project.pdb
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.csproj.AssemblyReference.cache
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.Form1.resources
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.Properties.Resources.resources
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.csproj.GenerateResource.cache
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.csproj.CoreCompileInputs.cache
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.exe
+C:\Users\MatiasDz\Desktop\Visual Studio\ProgramaHLS\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.pdb
