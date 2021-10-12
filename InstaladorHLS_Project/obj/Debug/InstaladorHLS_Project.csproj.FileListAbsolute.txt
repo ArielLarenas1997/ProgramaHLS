@@ -6,3 +6,4 @@ C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\Instalad
 C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.csproj.GenerateResource.Cache
 C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.exe
 C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.pdb
+C:\Users\pc\documents\visual studio 2015\Projects\InstaladorHLS_Project\InstaladorHLS_Project\obj\Debug\InstaladorHLS_Project.csprojResolveAssemblyReference.cache
