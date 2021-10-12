@@ -17,7 +17,6 @@ namespace InstaladorHLS_Project
             InitializeComponent();
         }
 
-<<<<<<< HEAD
         private void btnSALIR_Click(object sender, EventArgs e)
         {
             string message = "¿Quieres cerrar la aplicación?";
@@ -32,8 +31,10 @@ namespace InstaladorHLS_Project
             {
                 // Do something  
             }
+
+            {
             
-=======
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -42,12 +43,12 @@ namespace InstaladorHLS_Project
         private void btnSALIR_Click(object sender, EventArgs e)
         {
             Application.Exit();
->>>>>>> a1767918a0105bb83362b11a5f52e91f505d902f
+
         }
 
         private void btnSAM_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
+
             System.Diagnostics.Process.Start(@"C:\BatsAdministrador\SAM.lnk");
         }
 
@@ -77,7 +78,7 @@ namespace InstaladorHLS_Project
         }
 
         
-=======
+
 
         }
 
@@ -132,6 +133,6 @@ namespace InstaladorHLS_Project
             }
 
         }
->>>>>>> a1767918a0105bb83362b11a5f52e91f505d902f
+
     }
-}
+
